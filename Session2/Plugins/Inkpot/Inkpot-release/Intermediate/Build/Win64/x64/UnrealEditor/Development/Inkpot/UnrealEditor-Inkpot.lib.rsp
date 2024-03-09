@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Inkpot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\MastersCourse\Rapid-Ideation-Session-2\Session2\Intermediate\Build\Win64\x64\Session2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_1.h.obj"
+"E:\MastersCourse\Rapid-Ideation-Session-2\Session2\Plugins\Inkpot\Inkpot-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\Inkpot\Module.Inkpot.cpp.obj"
+"E:\MastersCourse\Rapid-Ideation-Session-2\Session2\Plugins\Inkpot\Inkpot-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\Inkpot\Default.rc2.res"
+/OUT:"E:\MastersCourse\Rapid-Ideation-Session-2\Session2\Plugins\Inkpot\Inkpot-release\Intermediate\Build\Win64\x64\UnrealEditor\Development\Inkpot\UnrealEditor-Inkpot.lib"
